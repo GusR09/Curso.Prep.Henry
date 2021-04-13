@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+    padding-left: 300px;
+    padding-top: 60px;
+    padding-bottom:60px;
+    border:solid;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+li{
+    list-style:none;
+}
+
+.container{
+    display: block;
+    text-align: right;
+    margin: auto;
+}
+
+.imgYcontenido{
+    display:flex;
+}
+
+h1{
+    font-size: 35px;
+}

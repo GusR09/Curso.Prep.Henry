@@ -1,0 +1,63 @@
+body{
+    background-image: url('https://img.freepik.com/vector-gratis/patron-textura-plana-fisuras-vector-hamburguesas_51635-3665.jpg?size=626&ext=jpg');
+}
+
+h1{
+    color:yellow;
+   
+}
+
+h3{
+    color:burlywood;
+    
+}
+h4{
+    color:white;
+    
+    background-color: black;
+}
+
+img{
+    width: 450px;
+    height: 300px;
+    border:solid;
+    display:block;
+    margin:auto;
+}
+
+#thirdDiv{
+    background-color: tomato;
+    width: 500px;
+    height: 600px;
+    padding:50px;
+    border-radius: 15px;
+    border: solid;
+    border-color: brown;
+    margin: auto;
+}
+
+#spanID{
+    font-size: 18px;
+    margin:50px; 
+}
+
+li{
+    list-style:none;
+}
+
+.divClass{
+    text-align: center;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;    
+}
+
+ul{
+    padding-left: 0px;
+}
