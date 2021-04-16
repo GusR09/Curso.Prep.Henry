@@ -7,32 +7,80 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+    display: block;
+    text-align: center;
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
+#ejercicioDos {
+    border:none;
+}
 
 
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
+#ejercicioTres{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
 
+}
 
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
-
+#ejercicioCuatro{
+    display: flex;
+    justify-content: start;
+}
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
+#ejercicioCinco{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: auto;
+    flex-direction: row-reverse; /*Ejercicio 6*/
+}
+
+/*Ejercicio 7*/
+
+#ejercicioSiete{
+    background: url(https://henry-social-resources.s3-sa-east-1.amazonaws.com/LOGO-REDES-01_og.jpg);
+    width: 1200px;
+    height: 630px;
+}
+
+.elementos{
+    box-shadow: 10px 10px 10px #067c96;
+    border-radius: 35px 0px 35px 0px; 
+    margin: 35px 70px;       
+}
 
 
+#elementoUno{
+    align-self: end;
+}
 
-/* Ejercicio 6. */
+#elementoDos{
+    align-self: flex-end;
+}
+
+#elementoTres{
+    align-self: end;
+}
+
+#elementoCuatro{
+    align-self: flex-end;
+}
+
